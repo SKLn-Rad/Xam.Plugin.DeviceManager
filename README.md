@@ -4,6 +4,9 @@ Easily expose device capabilities and provide bindings for Xamarin Forms.
 ## Changelog
 Version 1.0.0 -> Initial Implementation
 
+## Installation
+https://www.nuget.org/packages/Xam.Plugin.DeviceManager
+
 ## How to use?
 ```c#
 public App()
