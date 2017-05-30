@@ -39,7 +39,7 @@ public static void SetPollingFrequency(TimeSpan pollingFrequency)
 
 ## Platform Support
 *Please note: I have only put in platforms I have tested myself.*
-* Xamarin.iOS : iOS 9 +
+* Xamarin.iOS : iOS 8 +
 * Xamarin.Droid : API 16 +
 * Windows Phone/Store RT : 8.1 +
 * Windows UWP : 10 +
